@@ -1,0 +1,11 @@
+.idea/
+.cache/
+__pycache__/
+.env
+venv/
+Output/*
+!Output/.gitkeep 
+tests/*
+*.json
+*.mp3
+*.mp4
